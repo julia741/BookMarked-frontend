@@ -5,7 +5,7 @@
 * [Setup](#setup)
 ## General info
 Simple BooksApp create with Node.js, React and MongoDB
-	![Algorithm schema](/BookMarked-frontend/src/images/AppScreen.png)
+	![Algorithm schema](./src/images/AppScreen.png)
 ## Technologies
 Project is created with:
 * Node.js

@@ -12,7 +12,7 @@ Project is created with:
 * React
 * MongoDB
 * Semantic-UI
-* DODAC WERSJE!!
+
 	
 ## Setup
 To run this project, install it locally using npm:
